@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="company_location" label="Company Location" language="en" table="x_432227_the_watch_watch_company_orders">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>company_location</element>
+            <help/>
+            <hint/>
+            <label>Company Location</label>
+            <language>en</language>
+            <name>x_432227_the_watch_watch_company_orders</name>
+            <plural>Company Locations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-16 08:59:36</sys_created_on>
+            <sys_id>8f5601a22fb330106cbe55272799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Company Location</sys_name>
+            <sys_package display_value="The Watch Company" source="x_432227_the_watch">dca241ee2f7330106cbe55272799b62d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="The Watch Company">dca241ee2f7330106cbe55272799b62d</sys_scope>
+            <sys_update_name>sys_documentation_x_432227_the_watch_watch_company_orders_company_location_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-16 08:59:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

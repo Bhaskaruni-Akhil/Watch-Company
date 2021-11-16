@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">c280ab97db330010ad9d9235ca961992</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-16 08:59:35</sys_created_on>
+        <sys_id>4b5601a22fb330106cbe55272799b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="The Watch Company" source="x_432227_the_watch">dca241ee2f7330106cbe55272799b62d</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-16 08:59:35</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

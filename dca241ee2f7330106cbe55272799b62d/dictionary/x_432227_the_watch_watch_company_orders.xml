@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Watch Company Orders" max_length="40" name="x_432227_the_watch_watch_company_orders" type="collection">
+        <element attributes="encode_utf8=false" label="Company Location" max_length="32" name="company_location" reference="cmn_location" type="reference"/>
+    </element>
+</database>
